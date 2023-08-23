@@ -1,1 +1,1 @@
-​
+In this query, I've used a LEFT JOIN to ensure that all employees are included in the result, even if they don't have a corresponding entry in the Bonus table. Then, I've used the correct syntax for checking if the bonus is less than 1000 or is NULL.​
